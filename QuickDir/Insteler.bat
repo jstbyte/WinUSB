@@ -1,0 +1,1 @@
+Regedit /s QuickDir.reg
